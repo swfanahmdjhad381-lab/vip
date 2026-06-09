@@ -1,0 +1,8 @@
+{
+    "watan-vip-bbox": {
+        "status": "active",
+        "expiry_date": "2026-12-31",
+        "max_devices": 1,
+        "used_devices": []
+    },
+}
